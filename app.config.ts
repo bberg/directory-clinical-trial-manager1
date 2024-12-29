@@ -3,7 +3,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 export default defineAppConfig({
   general: {
     // todo make dynamic
-    title: "Directory",
+    title: "A Directory of Clinical Trial Management Systems and Software",
     logo: "/logo.png",
     // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -11,9 +11,9 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: "Directory",
-    description: "Directory",
-    url: "https://Directory.com",
+    name: "A Directory of Clinical Trial Management Systems and Software",
+    description: "Directory of Clinical Trial Management Systems and Software",
+    url: "https://trialmanagers.com",
     favicon: {
       image: "",
       emoji: "",
@@ -82,7 +82,7 @@ export default defineAppConfig({
     navbar: {
       colorModeSelector: true,
       links: [
-        { name: "Directory", to: "/" },
+        { name: "A Directory of Clinical Trial Management Systems and Software", to: "/" },
         // { name: "Info", to: "/blog" },
         // { name: "Advertise", to: "/advertise" },
         // {
@@ -98,7 +98,7 @@ export default defineAppConfig({
     },
   },
   footer: {
-    description: "Directory for finding appropriate businesses, services, and products",
+    description: "Directory for discovering suitable clinical trial management systems and software for administrators seeking effective management tools.",
     // socials: {
     //   github: {
     //     link: "",
