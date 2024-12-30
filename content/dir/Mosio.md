@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: Mosio_Logo_2018.png
 description: Offering a robust Clinical Trial Management System, this service integrates complex trial components, streamlines processes, and enhances compliance with features like automated messaging, ePRO data collection, and REDCap integration.
 ---

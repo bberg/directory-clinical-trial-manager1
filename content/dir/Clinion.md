@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: Clinion_Logo-1.png
 description: An integrated clinical trial management system offers unparalleled real-time visibility and control across the study spectrum, enhancing efficiency and reducing trial costs through customizable workflows and automated features.
 ---

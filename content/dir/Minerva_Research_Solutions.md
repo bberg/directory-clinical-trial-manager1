@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: true
 card_image: logo-sticky.png
 description: Offering a comprehensive suite of services including patient recruitment, regulatory documentation solutions, and quality assurance in data entry, Minerva Clinical Research combines advanced Clinical Trial Management System (CTMS) tools to streamline and enhance the clinical trial process.
 ---

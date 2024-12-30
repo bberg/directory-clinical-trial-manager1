@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: 45j_Gqtxwuo_H_Yc9_gnv8_Hx_QKE_4_P_Az_Z6cr_cf0ad22717.png
 description: Specializing in custom Clinical Trial Management System (CTMS) software, this business stands out by offering tailored solutions with a strong emphasis on user-friendly UI/UX design to cater to diverse healthcare and life science industry needs.
 ---

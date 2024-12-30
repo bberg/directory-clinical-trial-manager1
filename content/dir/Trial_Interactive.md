@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: ti_logo_summer_2024.png
 description: A global leader in eClinical innovation, offering a seamlessly connected Clinical Trial Management System that simplifies and automates clinical trial processes to enhance efficiency and ensure compliance.
 ---

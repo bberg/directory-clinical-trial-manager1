@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: certara-logo-2023.png
 description: Offering cutting-edge biosimulation and data science tools, this company specializes in enhancing the efficiency, quality, and regulatory compliance of clinical trials through innovative software solutions.
 ---

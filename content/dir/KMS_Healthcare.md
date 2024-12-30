@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: cropped-logo-kms-healthcare-2023-1-135x49.png
 description: Offering advanced clinical trial management solutions, this company specializes in integrating cutting-edge technologies like AI and machine learning to streamline data management and enhance collaboration for healthcare providers and life sciences organizations.
 ---

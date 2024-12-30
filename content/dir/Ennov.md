@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: Ennov-Logo.png
 description: Facilitating end-to-end management of clinical trials, this software uniquely integrates clinical data management, regulatory documentation, and pharmacovigilance for seamless workflow efficiency across the life sciences industry.
 ---

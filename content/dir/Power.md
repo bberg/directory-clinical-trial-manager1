@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: public.png
 description: Offering a comprehensive Clinical Trial Management System, this business provides an end-to-end solution that streamlines all aspects of clinical trial management, from planning and patient recruitment to data integration and reporting, ensuring efficiency and adherence to protocol guidelines across multiple sites.
 ---

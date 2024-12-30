@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: ClinVigilant-logo.png
 description: Offering a comprehensive suite of eClinical solutions, this company specializes in advanced Clinical Trial Management Systems (CTMS) to streamline complex trial processes and enhance efficiency in patient engagement, regulatory compliance, and data management.
 ---

@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: serchen.png
 description: A leader in clinical trial management, this company specializes in academic brain-health research and critical care studies, offering a user-friendly system for planning, performing, and reporting.
 ---

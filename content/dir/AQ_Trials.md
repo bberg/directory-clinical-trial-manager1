@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: AQ-Trials-Logo.png
 description: An all-in-one Clinical Trial Management System offers specialized software for research teams to streamline planning, tracking, and management across various clinical trial phases, enhancing efficiency and regulatory compliance.
 ---

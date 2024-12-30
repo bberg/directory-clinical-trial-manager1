@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: true
 card_image: CPlogoHRtransparent0420whitefont300.png
 description: Offering an enterprise solution for clinical trial management, this software excels in rapid study development and integrates advanced features such as intelligent electronic data capture (EDC) and clinical randomization technology, ensuring efficient and accurate data management.
 ---

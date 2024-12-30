@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: customerlogo-beigene-blk.png
 description: Offering a comprehensive and scalable solution, Oracle's Siebel Clinical Trial Management System enhances operational efficiency and data quality by integrating customizable workflows with advanced analytics for end-to-end clinical trial management.
 ---

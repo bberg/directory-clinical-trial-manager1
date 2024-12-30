@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: logo-clinevo.png
 description: The cloud-based Clinical Trial Management System offers an integrated Master Data Management module alongside electronic data capture, remote monitoring, and comprehensive quality management features, serving clinical trials across Bangalore, India, USA, and Europe.
 ---

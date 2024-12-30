@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: 2tlbmif5mv1o8m84bkv29l34h.png
 description: The Pinnacle 21 cloud suite revolutionizes clinical trials by automating manual processes, enhancing data quality, and expediting market delivery of lifesaving drugs.
 ---

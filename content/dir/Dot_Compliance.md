@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: true
 card_image: Dot-Compliance-Logo.png
 description: Offering a comprehensive suite of tools for clinical trial management, this platform uniquely integrates AI-driven quality management and compliance solutions to streamline data handling and ensure secure centralized storage of patient information.
 ---

@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: cloudbyz-logo-300x300.png
 description: Providing gold-standard education, rigorous certification, and indispensable connections, this organization supports over 17,000 clinical research professionals globally through a comprehensive turnkey solution offering continuous professional development and up-to-date clinical research resources.
 ---

@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: boston-biomedical-logo-color-400.png
 description: Offering a holistic platform that unifies clinical data, documents, and processes, MasterControl's clinical manufacturing software significantly enhances efficiency and information reuse for clinical research teams.
 ---

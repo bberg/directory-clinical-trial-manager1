@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: OpenGraph_Viewpoint.png
 description: An advanced clinical trial management system designed to streamline research processes, Verily Viewpoint Site CTMS digitizes study protocols, enhances user experience to reduce burnout, and optimizes operations for higher-quality and cost-effective trials.
 ---

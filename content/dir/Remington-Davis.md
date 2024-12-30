@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: logo_1.png
 description: Offering a comprehensive Clinical Trial Management System, this independent research site enhances trial efficiency and collaboration by integrating with EMRs, facilitating remote data audits, and optimizing billing transparency.
 ---

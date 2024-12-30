@@ -1,5 +1,6 @@
 ---
 featured: false
+invert: false
 card_image: infoed_global_logo_whitespace.png
 description: Offering a comprehensive Clinical Trials Management System, the platform uniquely streamlines administrative tasks by consolidating protocols, grants, contracts, and more into a single accessible location, enhancing collaboration among research personnel.
 ---
