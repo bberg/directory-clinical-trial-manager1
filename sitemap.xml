@@ -12,19 +12,10 @@
             <image:loc>https://trialmanagers.com/_ipx/w_800/clncl.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/w_800/Best%2BClinical%2BResearch%2BManagement%2BSoftware.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/w_800/header-logo.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://trialmanagers.com/_ipx/w_800/certara-logo-2023.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://trialmanagers.com/_ipx/w_800/logo-clinevo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/w_800/logo_dark.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://trialmanagers.com/_ipx/w_800/CPlogoHRtransparent0420whitefont300.png</image:loc>
@@ -51,16 +42,10 @@
             <image:loc>https://trialmanagers.com/_ipx/w_800/infoed_global_logo_whitespace.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/w_800/cropped-ICTR-logo.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://trialmanagers.com/_ipx/w_800/cropped-logo-kms-healthcare-2023-1-135x49.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://trialmanagers.com/_ipx/w_800/boston-biomedical-logo-color-400.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/w_800/vmr-logo-desktop.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://trialmanagers.com/_ipx/w_800/logo-sticky.png</image:loc>
@@ -102,9 +87,6 @@
             <image:loc>https://trialmanagers.com/_ipx/w_800/Clinical-Trial-Services-Solutions-Sitero.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/w_800/logo-2023-v2.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://trialmanagers.com/_ipx/w_800/cloudbyz-logo-300x300.png</image:loc>
         </image:image>
         <image:image>
@@ -114,16 +96,10 @@
             <image:loc>https://trialmanagers.com/_ipx/w_800/ti_logo_summer_2024.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/w_800/img-metatag.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://trialmanagers.com/_ipx/w_800/OpenGraph_Viewpoint.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://trialmanagers.com/_ipx/w_800/zealous-logo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/w_800/TuftsCTSI_IL_Logo.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -157,15 +133,6 @@
         </image:image>
         <image:image>
             <image:loc>https://trialmanagers.com/_ipx/_/AQ-Trials-Logo.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://trialmanagers.com/dir/ccrps</loc>
-        <image:image>
-            <image:loc>https://trialmanagers.com/Best+Clinical+Research+Management+Software.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/_/Best%2BClinical%2BResearch%2BManagement%2BSoftware.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -205,30 +172,12 @@
         </image:image>
     </url>
     <url>
-        <loc>https://trialmanagers.com/dir/clinitrial</loc>
-        <image:image>
-            <image:loc>https://trialmanagers.com/logo_dark.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/_/logo_dark.png</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://trialmanagers.com/dir/clinvigilant</loc>
         <image:image>
             <image:loc>https://trialmanagers.com/ClinVigilant-logo.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://trialmanagers.com/_ipx/_/ClinVigilant-logo.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://trialmanagers.com/dir/crio</loc>
-        <image:image>
-            <image:loc>https://trialmanagers.com/header-logo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/_/header-logo.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -259,15 +208,6 @@
         </image:image>
     </url>
     <url>
-        <loc>https://trialmanagers.com/dir/ilearn</loc>
-        <image:image>
-            <image:loc>https://trialmanagers.com/TuftsCTSI_IL_Logo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/_/TuftsCTSI_IL_Logo.png</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://trialmanagers.com/dir/infoed_global</loc>
         <image:image>
             <image:loc>https://trialmanagers.com/infoed_global_logo_whitespace.png</image:loc>
@@ -286,15 +226,6 @@
         </image:image>
     </url>
     <url>
-        <loc>https://trialmanagers.com/dir/johns_hopkins_medicine</loc>
-        <image:image>
-            <image:loc>https://trialmanagers.com/cropped-ICTR-logo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/_/cropped-ICTR-logo.png</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://trialmanagers.com/dir/kms_healthcare</loc>
         <image:image>
             <image:loc>https://trialmanagers.com/cropped-logo-kms-healthcare-2023-1-135x49.png</image:loc>
@@ -310,15 +241,6 @@
         </image:image>
         <image:image>
             <image:loc>https://trialmanagers.com/_ipx/_/boston-biomedical-logo-color-400.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://trialmanagers.com/dir/medidata_solutions</loc>
-        <image:image>
-            <image:loc>https://trialmanagers.com/vmr-logo-desktop.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/_/vmr-logo-desktop.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -439,15 +361,6 @@
         </image:image>
     </url>
     <url>
-        <loc>https://trialmanagers.com/dir/southern_california_clinical_and_translational_science_institute</loc>
-        <image:image>
-            <image:loc>https://trialmanagers.com/logo-2023-v2.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/_/logo-2023-v2.png</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://trialmanagers.com/dir/the_association_of_clinical_research_professionals</loc>
         <image:image>
             <image:loc>https://trialmanagers.com/cloudbyz-logo-300x300.png</image:loc>
@@ -475,15 +388,6 @@
         </image:image>
     </url>
     <url>
-        <loc>https://trialmanagers.com/dir/trial_management</loc>
-        <image:image>
-            <image:loc>https://trialmanagers.com/img-metatag.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://trialmanagers.com/_ipx/_/img-metatag.png</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://trialmanagers.com/dir/verily</loc>
         <image:image>
             <image:loc>https://trialmanagers.com/OpenGraph_Viewpoint.png</image:loc>
@@ -505,4 +409,4 @@
         <loc>https://trialmanagers.com/legal/terms-of-service</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.0 at 2024-12-29T20:02:08.377Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.0 at 2024-12-30T00:19:28.545Z -->
