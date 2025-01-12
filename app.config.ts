@@ -2,7 +2,6 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    // todo make dynamic
     title: "Clinical Trial Management Tools",
     logo: "/logo.png",
     // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
@@ -25,7 +24,7 @@ export default defineAppConfig({
       icon: "tabler:bow",
       tags: {
         // options: none,select,show-all,
-        display: "none",
+        display: "select",
         intersection: false,
       },
     },
@@ -58,14 +57,25 @@ export default defineAppConfig({
       labelForCard: "Featured ✨",
     },
     tags: [
-      // { name: "SAAS", color: "blue" },
-      // { name: "dashboard", color: "green" },
-      // { name: "landing-page" },
-      // { name: "toolbox" },
-      // { name: "agency" },
-      // { name: "markdown-based" },
-      // { name: "basics", color: "indigo" },
-    ],
+{"name": "Regulatory Compliance", "color": "gray"},
+  {"name": "Clinical Trial Management", "color": "gray"},
+  {"name": "Clinical Operations Efficiency", "color": "gray"},
+  {"name": "Clinical Trial Start-up and Activation", "color": "gray"},
+  {"name": "Pre-screening Questionnaires", "color": "gray"},
+  {"name": "Quality Assurance in Data Entry", "color": "gray"},
+  {"name": "Data Operations", "color": "gray"},
+  {"name": "Regulatory Documentation Solution", "color": "gray"},
+  {"name": "Patient Recruitment Services", "color": "gray"},
+  {"name": "Clinical Trial Management Systems", "color": "gray"},
+  {"name": "CRO Services", "color": "gray"},
+  {"name": "Site Management and Monitoring", "color": "gray"},
+  {"name": "Electronic Data Capture", "color": "gray"},
+  {"name": "EDC Data Management", "color": "gray"},
+  {"name": "ePRO Integration", "color": "gray"},
+  {"name": "Clinical Randomization Technology", "color": "gray"},
+  {"name": "Biopharmaceutical Development Services", "color": "gray"},
+  {"name": "Real-time Data Analysis", "color": "gray"}
+],
     tagPages: {
       title: "Available {0} items:",
       description:
@@ -82,8 +92,8 @@ export default defineAppConfig({
     navbar: {
       colorModeSelector: true,
       links: [
-        { name: "Clinical Trial Management Directory", to: "/" },
-        // { name: "Info", to: "/blog" },
+        { name: "Directory", to: "/" },
+        { name: "Info", to: "/blog" },
         // { name: "Advertise", to: "/advertise" },
         // {
         //   name: "Analytics",

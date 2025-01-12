@@ -9,7 +9,7 @@ export function useDirectory() {
       _extension: "md",
     });
 
-    query.only(["featured", "card_image", "description", "title", "_path", "invert"]);
+    query.only(["featured", "card_image", "description", "title", "_path", "invert", "tags"]);
 
     return query.sort({ featured: 1 }).find() as Promise<ListingContent[]>;
   });

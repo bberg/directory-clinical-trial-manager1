@@ -36,8 +36,7 @@ const searchInput = useKeyFocus();
         </div>
       </div>
     </div>
-
-
-
+    <UiTagSelect v-if="searchConfig?.tags?.display === 'select'" />
+    <UiTagGrid v-else-if="searchConfig?.tags?.display === 'show-all'" />
 </div>
 </template>
